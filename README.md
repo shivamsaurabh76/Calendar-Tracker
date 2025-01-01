@@ -72,7 +72,7 @@ The Calendar Tracker is a React-based web application designed to help companies
 
 ---
 
-## ## Technologies Used  
+## Technologies Used  
 
 ### Frontend  
 - **React 18.3.1** for UI development.  
